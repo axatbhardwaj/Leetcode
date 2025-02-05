@@ -16,7 +16,6 @@ class Solution:
                 return [numToIndex[target - nums[i]], i]
             numToIndex[nums[i]] = i
         return []
-        
-        
-# @lc code=end
 
+
+# @lc code=end
